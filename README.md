@@ -1212,6 +1212,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 * [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/) 
 * [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 * [VID 2 VID user script | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgo87s/wip_vid_2_vid_user_script/)
 * [Seamless textures AI generator for Blender by Antonio Freyre | Twitter](https://twitter.com/merlino_games/status/1571205845819559936)
 * ["Shattered" by Ronny Khalil | Twitter](https://twitter.com/ronnykhalil/status/1569956085905203200): using warp fusion to generate a shattered glass effect
